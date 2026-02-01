@@ -1,4 +1,4 @@
-# Python Sales Analysis Project
+# Technology E-Commerce Sales Analysis 
 
 ## Overview
 
